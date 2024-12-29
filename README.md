@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React Weather App
 
 A simple and elegant weather application built with React.js that provides real-time weather updates for any city worldwide.
@@ -16,7 +15,7 @@ A simple and elegant weather application built with React.js that provides real-
 
 ## Screenshots
 
-![Screenshot 2024-12-29 111554](https://github.com/user-attachments/assets/4f69f728-3cad-44c1-a1ec-8607b9919848)
+![Screenshot 2024-12-29 111554](https://github.com/user-attachments/assets/2945d5dc-6053-4028-bb2b-8d154da9cb8d)
 
 
 ## Technologies Used
@@ -29,12 +28,12 @@ A simple and elegant weather application built with React.js that provides real-
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/uxmisbah/weather-app.git
+   git clone https://github.com/uxmisbah/react-weather-app.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd weather-app
+   cd react-weather-app
    ```
 
 3. **Install dependencies**:
@@ -60,13 +59,3 @@ A simple and elegant weather application built with React.js that provides real-
 1. Enter the name of a city in the search bar.
 2. View the current weather, temperature, and other details for the searched city.
 =======
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# weather-app
->>>>>>> c982cb3 (first commit)
