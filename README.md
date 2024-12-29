@@ -11,7 +11,7 @@ A simple and elegant weather application built with React.js that provides real-
 
 ## Demo
 
-[Live Demo](#) (Add your deployed app link here)
+[Live Demo](#) (https://weather-app-misbah.netlify.app/)
 
 ## Screenshots
 
